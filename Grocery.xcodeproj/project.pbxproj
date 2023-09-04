@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		43BD3C012AA602B600482CA4 /* GroceryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BD3C002AA602B600482CA4 /* GroceryApp.swift */; };
-		43BD3C032AA602B600482CA4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BD3C022AA602B600482CA4 /* ContentView.swift */; };
+		43BD3C032AA602B600482CA4 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BD3C022AA602B600482CA4 /* LoginView.swift */; };
 		43BD3C052AA602BB00482CA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43BD3C042AA602BB00482CA4 /* Assets.xcassets */; };
 		43BD3C082AA602BB00482CA4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43BD3C072AA602BB00482CA4 /* Preview Assets.xcassets */; };
 		43BD3C172AA6041C00482CA4 /* Gilroy-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 43BD3C0F2AA6041B00482CA4 /* Gilroy-Medium.ttf */; };
@@ -24,7 +24,7 @@
 /* Begin PBXFileReference section */
 		43BD3BFD2AA602B600482CA4 /* Grocery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Grocery.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43BD3C002AA602B600482CA4 /* GroceryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroceryApp.swift; sourceTree = "<group>"; };
-		43BD3C022AA602B600482CA4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		43BD3C022AA602B600482CA4 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		43BD3C042AA602BB00482CA4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		43BD3C072AA602BB00482CA4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		43BD3C0F2AA6041B00482CA4 /* Gilroy-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Gilroy-Medium.ttf"; sourceTree = "<group>"; };
@@ -118,7 +118,7 @@
 		43BD3C222AA605F000482CA4 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				43BD3C022AA602B600482CA4 /* ContentView.swift */,
+				43BD3C022AA602B600482CA4 /* LoginView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -232,7 +232,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				43BD3C032AA602B600482CA4 /* ContentView.swift in Sources */,
+				43BD3C032AA602B600482CA4 /* LoginView.swift in Sources */,
 				43BD3C292AA6081800482CA4 /* Welcome.swift in Sources */,
 				43BD3C2D2AA60DFE00482CA4 /* PrimaryButton.swift in Sources */,
 				43BD3C302AA613CB00482CA4 /* UIExtension.swift in Sources */,
