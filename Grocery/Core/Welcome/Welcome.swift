@@ -40,7 +40,11 @@ struct Welcome: View {
                                 EmptyView()
                             }
         }
+        .navigationTitle("")
+        .navigationBarBackButtonHidden(true)
+        .navigationBarHidden(true)
         .ignoresSafeArea()
+        
     }
 }
 

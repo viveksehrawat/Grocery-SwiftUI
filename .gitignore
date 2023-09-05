@@ -16,6 +16,7 @@ build/
 !default.perspectivev3
 xcuserdata
 xcuserstate
+/Package.resolved
 
 ## Other
 *.xccheckout

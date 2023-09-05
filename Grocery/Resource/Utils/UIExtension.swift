@@ -38,11 +38,6 @@ extension CGFloat {
     static func heightPer(per: Double) -> Double {
         return screenHeight * per
     }
-    
-  
-    
-  
-    
 }
 
 extension Color {
